@@ -2,11 +2,9 @@
 
 This repository contains an end-to-end Natural Language Processing project conducted in collaboration with the NTU Data Analytics Club a leading game publisher. The goal was to analyze large-scale player discussions from multiple online communities, uncover major themes, and extract insights that could support strategies for improving player engagement.
 
-### Disclaimer:
-1. The source code contains comments in Traditional Chinese as this project was originally developed in a Mandarin-speaking business context.
-2. Some result files and visualizations are not included in this repository due to
-confidential information related to the industry partner. Only non-sensitive
-examples and structural outputs are provided for demonstration purposes.
+*### Note:*
+*1. The source code contains comments in Traditional Chinese as this project was originally developed in a Mandarin-speaking business context.*
+*2. Some result files and visualizations are not included in this repository due to confidential information related to the industry partner. Only non-sensitive examples and structural outputs are provided for demonstration purposes.*
 
 ---
 
